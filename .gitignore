@@ -12,6 +12,3 @@ Thumbs.db
 # Node modules and output
 node_modules
 dist
-
-# HTML files for locally testing the embed
-*.html
